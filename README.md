@@ -52,3 +52,109 @@ I want to share what I've learned: that learning can be exciting, lifelong, and�
 *   🔍 **Search & Filter:** Find exactly what you need, fast
 *   📱 **Mobile-Friendly:** Study anywhere, anytime
 *   🌐 **Multilingual:** Content in English, Chinese, and more
+
+🚀 Getting Started
+For Students (Users)
+Visit the Website:techxgirls.com (replace with your domain)
+Browse Subjects: Navigate to Mathematics, Science, English, Chinese, or Coding
+Start Learning: Watch videos, download resources, and practice
+Join the Community: Share feedback and connect with other learners
+No registration required. No credit card. No catch. Just learning.
+For Developers (Contributors)
+Want to help improve techxgirls? We'd love your contribution!
+# Clone the repository
+git clone https://github.com/yourusername/techxgirls.git
+
+# Navigate to project directory
+cd techxgirls
+
+# Open in your favorite code editor
+code .
+
+# Start a local server (if using Python)
+python -m http.server 8000
+
+# Visit http://localhost:8000 in your browser
+
+See CONTRIBUTING.md for detailed guidelines.
+
+🛠️ Tech Stack
+Frontend: HTML5, CSS3, JavaScript
+Framework: React (planned)
+Hosting: GitHub Pages / Vercel
+Video Hosting: YouTube (embedded)
+Version Control: Git & GitHub
+Design: Figma
+
+📚 Content Roadmap
+Phase 1: Core Subjects (Current)
+[x] Mathematics basics
+[x] Science fundamentals
+[x] English writing tips
+[x] Chinese lessons
+[ ] Additional video content (ongoing)
+Phase 2: Coding Section (Next)
+[ ] Introduction to Python
+[ ] Web Development basics (HTML/CSS/JS)
+[ ] Scratch for beginners
+[ ] Interactive coding challenges
+Phase 3: Community Features (Future)
+[ ] Discussion forums
+[ ] Study groups
+[ ] Student success stories
+[ ] Mentor matching program
+
+🤝 Contributing
+techxgirls thrives on community contributions! Whether you're a developer, educator, student, or just passionate about education, there are many ways to help:
+💻 Code: Fix bugs, add features, improve performance
+📝 Content: Create lessons, translate materials, write study guides
+🎨 Design: Improve UI/UX, create graphics, design worksheets
+🐛 Testing: Report bugs, suggest improvements, test new features
+📢 Outreach: Share the platform, write blog posts, spread the word
+Check out our Contribution Guidelines to get started, or simply open an issue with your ideas!
+New to open source? Perfect! This is a beginner-friendly project. We welcome first-time contributors and provide mentorship.
+
+👥 Community & Support
+Questions? Open an Issue
+Ideas? Start a Discussion
+Updates? Follow us on Instagram | Twitter
+Feedback? Fill out our Feedback Form
+
+📊 Project Status
+🟢 Active Development - This project is actively maintained and regularly updated with new content.
+Current Stats:
+🎥 Videos: 8 lessons
+📄 Resources: 15 downloadable files
+👥 Contributors: 1 (and growing!)
+⭐ GitHub Stars: [Help us reach 100!]
+
+📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+What this means:
+✅ Free to use for any purpose
+✅ Free to modify and distribute
+✅ Free to use commercially
+⚠️ Attribution required
+
+🙏 Acknowledgments
+Special thanks to:
+My teachers at Raffles Girls' School for inspiring my love of learning
+The open-source community for tools and inspiration
+You for taking the time to visit and support this project
+Inspired by the belief that education should be accessible to all.
+
+🌟 Stargazers
+If techxgirls has helped you, please consider giving it a ⭐️ on GitHub! It helps others discover the project.
+
+
+📬 Contact
+Project Maintainer: Robin Teng
+ Email: ceo@techxgirl.com
+ GitHub: RobinT-dev
+Website: techxgirl.com
+ <div align="center">
+Made with ❤️ by a student, for students
+"Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
+⭐️ Star this repo | 🍴 Fork it | 📢 Share it
+</div>
+
